@@ -1,0 +1,39 @@
+{
+  "phones": [
+    {
+      "photo": "AgACAgIAAxkBAAImbmW03bC7mRNPYHF-IF8uWcpqNJHYAAKy2jEbKM2pSUpbEu8qEuVvAQADAgADeAADNAQ",
+      "brand": "Айфон  14 Про Макс",
+      "color": "Білей",
+      "storage": "256Gb",
+      "prise": 1200.0
+    },
+    {
+      "photo": "AgACAgIAAxkBAAImeGW03eijD9KgzJxNMzEIu_abmf0YAAKc2zEbKM2pSdVpnCygLSQ6AQADAgADeQADNAQ",
+      "brand": "Самсунг 23 Ультра",
+      "color": "Сірей",
+      "storage": "256Gb",
+      "prise": 1300.0
+    },
+    {
+      "photo": "AgACAgIAAxkBAAIoKWW1GGOiUeIQdOz958cyNcrhA2IIAAIo0TEbKM2xSQJIDMm3rNZPAQADAgADeAADNAQ",
+      "brand": "Редмі 12 про",
+      "color": "Чорний",
+      "storage": "256Gb",
+      "prise": 450.0
+    },
+    {
+      "photo": "AgACAgIAAxkBAAInaWW1AyFvmgdajq1FM2QTlxNqwODKAAL_2jEbKM2pSfcU9d6_BPPkAQADAgADeAADNAQ",
+      "brand": "Poco 12 pro",
+      "color": "Чорний",
+      "storage": "256Gb",
+      "prise": 360.0
+    },
+    {
+      "photo": "AgACAgIAAxkBAAIoX2W1NnfsnLoQnh-MoM2Yaw3a_I-ZAAIB2zEbKM2pSX9sJmPbh1gjAQADAgADeAADNAQ",
+      "brand": "Хаувей 9 про",
+      "color": "Чорний",
+      "storage": "256Gb",
+      "prise": 480.0
+    }
+  ]
+}
